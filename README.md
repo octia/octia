@@ -1,5 +1,5 @@
 Hi!
-I've been passionate about games for as long as I remember, and it quickly evolved into making them ;)
+I've been passionate about games for as long as I remember. Making them since I was 10, and making them in Unity for the past 10.
 
 # If you are a recruiter:
 

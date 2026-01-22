@@ -4,6 +4,6 @@ I've been making them since I was ~10yo, and making them specifically in Unity f
 
 # If you are a recruiter:
 
-Most of my projects here are very old - please keep that in mind :)
+Most of my publicly visible projects here are very old - please keep that in mind :)
 
 Most recently, I've been contributing to [Reflex](https://github.com/gustavopsantos/Reflex)
